@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+title: Entrepreneurship, Leadership, & Communication with Kellogg School of Management
+description: In this course, you’ll discover tangible ways to improve your sales techniques—in other words, how you interact with others to achieve the outcomes you want. Whether you’re navigating a room full of peers, interviewing for a job or internship, or giving a presentation, clear communication will elevate every scenario.
+institution: iDtech
