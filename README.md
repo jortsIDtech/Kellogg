@@ -1,4 +1,8 @@
 # Entrepreneurship, Leadership, & Communication with Kellogg School of Management
+<hr/>
+
+# Final Project
+
 
 ## Goals for this course
 - Become better at doing what *you* find most meaningful
@@ -8,3 +12,5 @@
 - Develop a portfolio to share with potential colleges or employers.
 
 ## Important Links
+- [GAMEPLAN](https://student.idtech.com/courses/225)
+- [Notion](https://www.notion.so)
