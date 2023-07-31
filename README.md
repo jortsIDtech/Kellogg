@@ -1,7 +1,7 @@
-# Entrepreneurship, Leadership, & Communication with Kellogg School of Management
-
-# Final Project
-
+# Final Projects
+- Story Presentations (Wednesday)
+- Mock Interview (Thursday)
+- Final Pitch (Friday)
 
 ## Goals for this course
 - Become better at doing what *you* find most meaningful
@@ -12,7 +12,8 @@
 - Develop a portfolio to share with potential colleges or employers.
 
 ## Important Links
-- [GAMEPLAN](https://student.idtech.com/courses/225)
+- [Canvas](https://student.idtech.com/courses/225)
+- [Gameplan](gp4.idtech.com)
 - [Notion](https://www.notion.so)
 
 ## One-off Links
