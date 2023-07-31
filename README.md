@@ -29,3 +29,6 @@
 - Make sure your language is camp appropriate
 - Listen to others
 - Sit down during class
+## Business Leaders
+- [Andrew Sykes](https://www.andrewsykes.com/about)
+'
