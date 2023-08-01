@@ -30,5 +30,8 @@
 - Make sure your language is camp appropriate
 - Listen to others
 - Sit down during class
-## Business Leaders
+
+## Class Notes
+- [Day 1](https://jortsiDtech.github.io/Kellogg/Day1.md)
+## Business Leaders We've Met / Will Meet
 - [Andrew Sykes](https://www.andrewsykes.com/about)
