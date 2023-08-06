@@ -28,6 +28,7 @@ body #schedule-day {
 	margin: auto;
 	padding: 20px;
 	padding-top: 0px;
+	margin-bottom: 50px;
 }
 body #schedule-day h3 {
 	font-size: 50px;
@@ -48,4 +49,11 @@ body #schedule-day h3 {
 }
 #idk {
         background-color: rgba(255,55,50,0.2);
+}
+hr {
+	margin: 20px;
+	border: 5px solid #555555;
+	border-radius: 5px;
+	width:40%;
+	margin:auto;
 }
