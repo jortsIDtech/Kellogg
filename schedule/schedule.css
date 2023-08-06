@@ -1,0 +1,51 @@
+html {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
+body h1 {
+	margin: 0px;
+	font-size: 70px;
+	text-align: center;
+	padding: 10px;
+	background-color: rgb(100,200,100);
+	color: #ffffff;
+	text-shadow: 2px 2px gray;
+	box-shadow: 0 0 20px gray;
+}
+body h2 {
+	font-size: 60px;
+	color: #333333;
+	text-align: center;
+}
+body #schedule-day {
+	background-color: #eeeeee;
+	width: 60%;
+	border-radius: 20px;
+	margin: auto;
+	padding: 20px;
+	padding-top: 0px;
+}
+body #schedule-day h3 {
+	font-size: 50px;
+	color: #555555;
+	text-align: center;
+	padding-top: 5px;
+}
+.left {
+	float: left;
+	width: 30%;
+}
+.right {
+	float: right;
+	width: 70%
+}
+#needs-more {
+	background-color: rgba(255,155,50,0.2);
+}
+#idk {
+        background-color: rgba(255,55,50,0.2);
+}
