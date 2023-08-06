@@ -12,6 +12,7 @@
 - Develop a portfolio to share with potential colleges or employers.
 
 ## Important Links
+- [Schedule](https://jortsiDtech.github.io/Kellogg/schedule/)
 - [Canvas](https://student.idtech.com/courses/225)
 - [Gameplan](https://gp4.idtech.com)
 - [Notion](https://www.notion.so)
@@ -35,3 +36,4 @@
 - [Day 1](https://jortsiDtech.github.io/Kellogg/Day1.md)
 ## Business Leaders We've Met / Will Meet
 - [Andrew Sykes](https://www.andrewsykes.com/about)
+- [Craig Wortmann](https://www.kellogg.northwestern.edu/faculty/directory/wortmann_craig.aspx)
