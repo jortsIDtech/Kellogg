@@ -46,10 +46,10 @@ body #schedule-day h3 {
 	width: 70%
 }
 #needs-more {
-	background-color: rgba(255,155,50,0.2);
+	/*background-color: rgba(255,155,50,0.2);*/
 }
 #idk {
-        background-color: rgba(255,55,50,0.2);
+        /*background-color: rgba(255,55,50,0.2);*/
 }
 hr {
 	margin: 20px;
