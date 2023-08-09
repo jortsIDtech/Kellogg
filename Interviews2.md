@@ -61,16 +61,16 @@
 
 
 
-1. What recent marketing initiatives have you executed?
-2. Tell me about your experience with content creation and management?
-3. Can you provide examples of advertising campaigns you've created or been involved with previously?
-4. How have you used data gathered from analytics platforms to shape your strategy? 
-5. How do you stay up to date with the ever changing landscape of digital marketing?
-6. Can you demonstrate your ability to build relationships and create partnerships with potential customers?
-7. How comfortable are you with using CRM databases and customer segmentation for targeted campaigns?
-8. How do you stay organized when managing multiple campaigns simultaneously?
-9. What campaign results have you achieved in identifying and growing new markets?
-10. What strategies have you employed to increase customer loyalty and retention?
+1. What experience do you have in marketing and retail?
+2. How have you used creative promotion strategies to sharpen results in the past?
+3. Do you have experience in copywriting or graphic design?
+4. Are you familiar with current trends in the art market?
+5. What metrics do you use to measure marketing performance?
+6. How comfortable are you working with other departments such as sales and production?
+7. What strategies would you use to engage potential customers?
+8. What techniques would you use to grow an existing customer base?
+9. Are you able to work independently and under tight deadlines?
+10. What techniques do you use to achieve success in a competitive market?
 
 ## Owen
 
