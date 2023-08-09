@@ -21,6 +21,7 @@
 - [Sales Toolkit](https://dapop.notion.site/dapop/effd27578f0d4263aa104a737a94c689?v=e499bd8bcdb446c7b57c8cf2d59a148a)
 - [Personal Wiki](https://www.notion.so/charfraza/Personal-wiki-7c19c6d9fefc4e169e3154b4e6c508f4)
 - [Evolution of Trust](https://ncase.me/trust/)
+- [Interview Questions](https://jortsidtech.github.io/Kellogg/interviews)
 
 ## In-Class Materials
 - [link](https://jortsiDtech.github.io/Kellogg/InClassMaterial/)
