@@ -17,7 +17,8 @@
 
 1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
 2. Describe a time when you were instrumental in creating or improving a relationship.
-3. Tell me about a project you worked on from start to finish.
+3. Describe what you consider a stressful situation in your school or personal projects. What do you do to de-stress?
+4. Tell me about a project you worked on from start to finish.
 1. What experience do you have working with children in a sports setting?
 2. How would you handle a situation where a camper is intentionally disrupting the camp activities?
 3. What do you think is the most important skill a sports camp counselor needs to have?
@@ -35,16 +36,17 @@
 1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
 2. Describe a time when you were instrumental in creating or improving a relationship.
 3. Tell me about a project you worked on from start to finish.
-1. What motivated you to pursue an entry-level position in college admissions?
-2. What experience do you have working with college students?
-3. What do you believe makes a successful college applicant?
-4. How would you handle a student who is uncertain about their major or college?
-5. What strategies do you employ to engage and inform college applicants? 
-6. How do you keep track of changing college admission trends and requirements?
-7. How do you interact with individuals of different backgrounds during the admissions process?
-8. How do you ensure that the admissions decisions are equitable and reflect the college’s mission?
-9. What do you believe sets your institution apart from other colleges and universities?
-10. Are there any special programs or services that your institution offers to incoming students?
+4. Describe what you consider a stressful situation in your school or personal projects. What do you do to de-stress?
+1. What makes you want to attend this college?
+2. What led to your decision to pursue higher education?
+3. What do you think sets you apart from other candidates for admission?
+4. How do you handle pressure and difficult challenges?
+5. How do you handle your time management?
+6. What makes you excited about attending college? 
+7. How have your past educational and extracurricular experiences prepared you for college-level courses? 
+8. What personal, educational, or professional goals have you set for yourself? 
+9. What do you believe are the most important qualities for success in college? 
+10. What do you think will be the greatest challenge for you in college, and how do you plan to overcome it?
 11. Do you have any questions for me?
 
 ## Marley
@@ -53,16 +55,17 @@
 1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
 2. Describe a time when you were instrumental in creating or improving a relationship.
 3. Tell me about a project you worked on from start to finish.
-1. What strengths do you feel make you a good fit for this position?
-2. What experience do you have with college admissions process?
-3. What strategies do you use for building relationships with students and parents?
-4. How do you assess applicants to ensure their eligibility for admission?
-5. Are you familiar with college admissions software, such as Ellucian or Jenzabar?
-6. How have you handled difficult situations while interacting with applicants and parents during the college admissions process?
-7. How could you support the Enrollment Management mission of the institution?
-8. Describe a time when you worked with a team to accomplish a goal in college admissions.
-9. What experience have you had partnering with high school counselors?
-10. What do you believe are the most important skills required to be successful in this position?
+4. Describe what you consider a stressful situation in your school or personal projects. What do you do to de-stress?
+1. What motivated you to apply to USC?
+2. What is your greatest accomplishment thus far in your academic career?
+3. What makes you stand out as a potential student for USC?
+4. How have you demonstrated your leadership skills in the past?
+5. How have you contributed to your current or former community or school? 
+6. Are you comfortable with the rigor of our academic program? 
+7. What did you learn about yourself during any academic challenges you faced?
+8.  Are there any activities that you have pursued outside of school that demonstrate your interest and passion? 
+9. What type of support system are you looking for in a college community? 
+10. What do you think will be the most challenging aspect of your time as a student at USC?
 11. Do you have any questions for me?
 
 ## Emmie
@@ -70,17 +73,18 @@
 
 1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
 2. Describe a time when you were instrumental in creating or improving a relationship.
-3. Tell me about a project you worked on from start to finish.
-1. What experience do you have in marketing and retail?
-2. How have you used creative promotion strategies to sharpen results in the past?
-3. Do you have experience in copywriting or graphic design?
-4. Are you familiar with current trends in the art market?
-5. What metrics do you use to measure marketing performance?
-6. How comfortable are you working with other departments such as sales and production?
-7. What strategies would you use to engage potential customers?
-8. What techniques would you use to grow an existing customer base?
-9. Are you able to work independently and under tight deadlines?
-10. What techniques do you use to achieve success in a competitive market?
+3. Describe what you consider a stressful situation in your school or personal projects. What do you do to de-stress?
+4. Tell me about a project you worked on from start to finish.
+1. What previous marketing and customer service experience do you have?
+2. What strategies have you used to improve customer engagement in the past?
+3. How would you increase awareness of new art products for customers?
+4. Are you experienced utilizing digital and social media platforms to promote a product?
+5. Are you comfortable designing content for online channels such as websites and email campaigns?
+6. How would you use data to track the effectiveness of a marketing campaign?
+7. What are your thoughts on creative advertising with minimal resources?
+8. Do you have any experience creating budgets and allocating advertising funds?
+9. Are you fully comfortable with working collaboratively with other departments?
+10. How have you used analytics to guide decisions in the past?
 11. Do you have any questions for me?
 
 ## Owen
@@ -88,17 +92,18 @@
 
 1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
 2. Describe a time when you were instrumental in creating or improving a relationship.
-3. Tell me about a project you worked on from start to finish.
-1. What motivated you to pursue a career in robotics engineering?
-2. What do you consider your strongest skill sets related to robotics engineering?
-3. Describe the experience you have acquired working with Boston Dynamics.
-4. How do you approach problem-solving and debugging of robotic systems?
-5. What strategies do you use to stay informed on robotics trends?
-6. What do you consider your biggest accomplishments related to robotics engineering?
-7. How do you go about troubleshooting robotic systems with unexpected problems?
-8. Describe your experience working with team members on collective robotics projects.
-9. What kind of experience have you had building robotic systems from scratch?
-10. In what ways do you stay proactive in learning new robotic technologies and implementations?
+3. Describe what you consider a stressful situation in your school or personal projects. What do you do to de-stress?
+4. Tell me about a project you worked on from start to finish.
+1. What motivated you to pursue a career in engineering robotics?
+2. Could you explain the process of creating a robotic product from start to finish?
+3. What experience do you have with programming robots?
+4. In what ways do you envision the robotics field evolving in the next 5-10 years?
+5. How familiar are you with Boston Dynamics’ products and services?
+6. What strategies do you use to ensure accuracy when programming robots?
+7. Are you experienced in providing technical support for robotic products?
+8. Could you describe how to debug and troubleshoot robotic systems?
+9. Have you ever encountered any challenges or setbacks when building a robot?
+10. How do you handle tight deadlines when designing and developing robotic products?
 11. Do you have any questions for me?
 
 ## Ethan
@@ -107,6 +112,7 @@
 1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
 2. Describe a time when you were instrumental in creating or improving a relationship.
 3. Tell me about a project you worked on from start to finish.
+4. Describe what you consider a stressful situation in your school or personal projects. What do you do to de-stress?
 1. What experience do you bring to the job in video editing?
 2. What software do you use when carrying out video editing tasks?
 3. How comfortable are you using industry tools such as Adobe Premiere and After Effects?
@@ -125,6 +131,7 @@
 1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
 2. Describe a time when you were instrumental in creating or improving a relationship.
 3. Tell me about a project you worked on from start to finish.
+4. Describe what you consider a stressful situation in your school or personal projects. What do you do to de-stress?
 1. What experience do you have working as a youth enrichment instructor?
 2. How do you go about addressing conflicts between students?
 3. How do you ensure your courses are engaging and interesting?
@@ -143,6 +150,7 @@
 1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
 2. Describe a time when you were instrumental in creating or improving a relationship.
 3. Tell me about a project you worked on from start to finish.
+4. Describe what you consider a stressful situation in your school or personal projects. What do you do to de-stress?
 1. What inspired you to pursue a career at NASA?
 2. Are there any projects you are most looking forward to working on in your internship?
 3. What attributes make you the best candidate for this program?
