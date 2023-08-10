@@ -1,7 +1,7 @@
 # Interviews
 <hr/>
 ## Positions
-- Augustin - Sports camp counselor’
+- Augustin - Sports camp counselor
 - Juan Pablo - College Interview
 - Marley - College Interview
 - Emmie - Internship as the assistant marketing coordinator of an art store
@@ -15,7 +15,9 @@
 ## Augustin
 
 
-
+1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
+2. Describe a time when you were instrumental in creating or improving a relationship.
+3. Tell me about a project you worked on from start to finish.
 1. What experience do you have working with children in a sports setting?
 2. How would you handle a situation where a camper is intentionally disrupting the camp activities?
 3. What do you think is the most important skill a sports camp counselor needs to have?
@@ -26,11 +28,13 @@
 8. How do you handle disciplinary action with campers when necessary?
 9. Describe how you would implement safety protocols during sports camp activities. 
 10. Tell us about an activity or project you have previously developed for a sports camp.
+11. Do you have any questions for me?
 
 ## Juan Pablo
 
-
-
+1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
+2. Describe a time when you were instrumental in creating or improving a relationship.
+3. Tell me about a project you worked on from start to finish.
 1. What motivated you to pursue an entry-level position in college admissions?
 2. What experience do you have working with college students?
 3. What do you believe makes a successful college applicant?
@@ -41,11 +45,14 @@
 8. How do you ensure that the admissions decisions are equitable and reflect the college’s mission?
 9. What do you believe sets your institution apart from other colleges and universities?
 10. Are there any special programs or services that your institution offers to incoming students?
+11. Do you have any questions for me?
 
 ## Marley
 
 
-
+1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
+2. Describe a time when you were instrumental in creating or improving a relationship.
+3. Tell me about a project you worked on from start to finish.
 1. What strengths do you feel make you a good fit for this position?
 2. What experience do you have with college admissions process?
 3. What strategies do you use for building relationships with students and parents?
@@ -56,11 +63,14 @@
 8. Describe a time when you worked with a team to accomplish a goal in college admissions.
 9. What experience have you had partnering with high school counselors?
 10. What do you believe are the most important skills required to be successful in this position?
+11. Do you have any questions for me?
 
 ## Emmie
 
 
-
+1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
+2. Describe a time when you were instrumental in creating or improving a relationship.
+3. Tell me about a project you worked on from start to finish.
 1. What experience do you have in marketing and retail?
 2. How have you used creative promotion strategies to sharpen results in the past?
 3. Do you have experience in copywriting or graphic design?
@@ -71,11 +81,14 @@
 8. What techniques would you use to grow an existing customer base?
 9. Are you able to work independently and under tight deadlines?
 10. What techniques do you use to achieve success in a competitive market?
+11. Do you have any questions for me?
 
 ## Owen
 
 
-
+1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
+2. Describe a time when you were instrumental in creating or improving a relationship.
+3. Tell me about a project you worked on from start to finish.
 1. What motivated you to pursue a career in robotics engineering?
 2. What do you consider your strongest skill sets related to robotics engineering?
 3. Describe the experience you have acquired working with Boston Dynamics.
@@ -86,11 +99,14 @@
 8. Describe your experience working with team members on collective robotics projects.
 9. What kind of experience have you had building robotic systems from scratch?
 10. In what ways do you stay proactive in learning new robotic technologies and implementations?
+11. Do you have any questions for me?
 
 ## Ethan
 
 
-
+1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
+2. Describe a time when you were instrumental in creating or improving a relationship.
+3. Tell me about a project you worked on from start to finish.
 1. What experience do you bring to the job in video editing?
 2. What software do you use when carrying out video editing tasks?
 3. How comfortable are you using industry tools such as Adobe Premiere and After Effects?
@@ -101,11 +117,14 @@
 8. Are you able to adjust lighting and audio levels if needed?
 9. Are you familiar with any special effects and post-producing techniques?
 10. Are you able to stick to deadlines and work under pressure?
+11. Do you have any questions for me?
 
 ## Katie
 
 
-
+1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
+2. Describe a time when you were instrumental in creating or improving a relationship.
+3. Tell me about a project you worked on from start to finish.
 1. What experience do you have working as a youth enrichment instructor?
 2. How do you go about addressing conflicts between students?
 3. How do you ensure your courses are engaging and interesting?
@@ -116,11 +135,14 @@
 8. How do you motivate students who may be falling behind in their studies?
 9. What challenges have you faced as a youth enrichment instructor, and how did you address them?
 10. Are there any activities or pedagogical approaches that you think could help make learning more engaging for students?
+11. Do you have any questions for me?
 
 ## Rishi
 
 
-
+1. “Thank you for coming to interview for the (position name) with us here at (company name), let me start by asking you to tell us a little bit about yourself and why you are interviewing for this position.”
+2. Describe a time when you were instrumental in creating or improving a relationship.
+3. Tell me about a project you worked on from start to finish.
 1. What inspired you to pursue a career at NASA?
 2. Are there any projects you are most looking forward to working on in your internship?
 3. What attributes make you the best candidate for this program?
@@ -131,3 +153,4 @@
 8. What unique strengths and skills will you bring to this internship experience?
 9. What methods do you find the most effective when working on complex technical problems?
 10. How would you ensure that safety is a top priority during tasks and assignments assigned to you?
+11. Do you have any questions for me?
